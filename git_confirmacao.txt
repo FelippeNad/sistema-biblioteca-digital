@@ -1,0 +1,1 @@
+Confirmação de uso do Git local via Google Colab para teste, visto que acabei enviando os arquivos manualmente.
