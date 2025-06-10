@@ -8,8 +8,11 @@ Sistema em Python para gerenciamento de documentos digitais (PDF, ePUB etc.) de 
 - Organizar documentos por tipo e ano de publicação
 
 ## Como usar no Google Colab
-1. Crie um arquivo chamado 'documentos' no ficheiro do google colab ou execute o código 
-`os.makedirs('documentos', exist_ok=True)`
+1. Crie um arquivo chamado 'documentos' no ficheiro do google colab ou execute o código
+   
+```python
+os.makedirs('documentos', exist_ok=True)
+```
 
 2. Execute a célula com a função `adicionar_documento_upload()` para enviar arquivos.
 
