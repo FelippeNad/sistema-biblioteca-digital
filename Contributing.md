@@ -5,7 +5,7 @@ Este projeto foi desenvolvido no Google Colab, mas também pode ser adaptado par
 1. Faça o fork deste repositório.
 2. Clone para sua máquina com:
 ```bash
-git clone https://github.com/seuusuario/sistema-biblioteca-digital.git
+git clone https://github.com/FelippeNad/sistema-biblioteca-digital.git
 ```
 3. Crie uma nova branch:
 ```bash
